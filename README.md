@@ -1,2 +1,3 @@
 # asteroids
-My first game in Python
+
+My first videogame project (from Boot.dev)
